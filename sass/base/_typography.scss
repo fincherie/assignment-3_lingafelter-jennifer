@@ -1,4 +1,32 @@
-$primary-color: red;
+h1 {
+font-family: 'Permanent Marker', cursive;
+color: #ef0ebb;
+font-size: 30px;
+float: right;
+margin-right: 20px;
+}
+h2 {
+  font-size: 30px;
+	color: #001133;
+}
+h3 {
+  font-size: 25px;
+	color: #ff4d4d;
+}
+h4, h5, h6 {
+	margin-top: 20%;
+	text-align: left;
+	color: #000000;
+}
 p {
-color: $primary-color;
+  font-size: 20px;
+	color: #001133d;
+	text-align: left;
+}
+.footer__p {
+	font-family: 'Pacifico', cursive;
+	font-size: 15px;
+	margin-right: 35px;
+  color: #ffffff;
+  text-align: right;
 }
