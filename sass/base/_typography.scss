@@ -1,0 +1,44 @@
+h1 {
+font-family: $secondary-font;
+color: $hot-pink;
+font-size: 30px;
+float: right;
+margin-right: 20px;
+}
+
+h2 {
+  font-size: 30px;
+	color: $black-blue;
+}
+
+h3 {
+  font-size: 25px;
+	color: $red;
+}
+
+h4, h5, h6 {
+	margin-top: 20%;
+	text-align: left;
+	color: $black;
+}
+
+p {
+  font-size: 20px;
+	color: $darkest-blue;
+	text-align: left;
+}
+
+.main__section__list {
+  font-size: 20px;
+	color: $hot-pink;
+	text-align: left;
+  margin-left: 50px;
+}
+
+.footer__p {
+	font-family: 'Pacifico', cursive;
+	font-size: 15px;
+	margin-right: 35px;
+  color: $white;
+  text-align: right;
+}
